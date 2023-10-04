@@ -22,8 +22,8 @@ To write a program to predict the profit of a city using the linear regression m
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
-Developed by: PRIYANKA.A
-RegisterNumber: 212222230113
+Developed by: ANANDHAMOORTHY.K
+RegisterNumber: 212222100004
 # Import required package
 import numpy as np
 import pandas as pd
